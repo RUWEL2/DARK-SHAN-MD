@@ -33,11 +33,23 @@
  ========================================================
  **/
 
- var alivemessage = `*HELLO IM DARK SHAN MD*
+ var alivemessage = `*HELLO IM 𝐶𝑌𝐵𝛯𝑅 𝑇𝛨𝛯𝛯𝛫𝑆𝛨𝛥𝛮𝛥 𝛭𝐷*
  
-_IM MULTI DEVICE WWHATSAPP BOT_ 
+_IM MULTI DEVICE WHATSAPP BOT_ 
 
-_If any query : wa.me/94772108460_
+_If any query : wa.me/94764234673
+
+@🅲🆈🅱🅴🆁 🆇 🆃🅷🅴🅴🅺🅷🅰🅽🅰✿:.
+　　　__
+　　 / )))　　 _
+　 ／ イ　　　((( ＼
+　(　 ﾉ　　　　￣Ｙ＼
+　|　(＼ ∧＿∧　｜　)
+　ヽ　ヽ`(´^ㅅ^)_／ノ/
+　　＼ |　⌒Ｙ⌒　/ /
+　　 ＼ヽ　 |　 ﾉ ／
+　　　＼ ﾄー仝ーｲ /
+　　　 ｜ ミ土彡 ｜
 
 
 *_Update Alive Message by adding text with Alive_*
@@ -58,9 +70,9 @@ _If any query : wa.me/94772108460_
 },
 async(Suhail, msg, text, {isCreator}) => {
   let get = text;
-let urll = '';     
+let urll = 'https://telegra.ph/file/2b185f6501a5198d9e55b.mp4';     
   let image = false;
-  let video = false;
+  let video = true;
   
 if(isCreator && text){
 let aliv = await alive.findOne({ id:"Suhail_Md" }) || await new alive({ id:"Suhail_Md"}).save();
