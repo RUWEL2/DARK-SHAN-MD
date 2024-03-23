@@ -1,10 +1,10 @@
 </p>
 <p align="center">
   <a href="https://youtube.com/@darkshanyt1">
-    <img alt=Support height="350" src="https://telegra.ph/file/8c4247c94ad072eb079ff.jpg"> 
+    <img alt=Support height="350" src="[https://telegra.ph/file/21dc5da17a72011a7a57e.jpg]()"> 
     </p>
 
-<h1 align="center">    DARK SHAN MD WHATSAPP BOT
+<h1 align="center">    𝐶𝑌𝐵𝛯𝑅 𝑇𝛨𝛯𝛯𝛫𝑆𝛨𝛥𝛮𝛥 𝛭𝐷 WHATSAPP BOT
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkushansewmina2580%2FDARK-SHAN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
