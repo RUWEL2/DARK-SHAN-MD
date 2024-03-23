@@ -42,9 +42,9 @@ Secktor.cmd({
     },
     async(Void, citel) => {
         var inital = new Date().getTime();
-        const { key } = await Void.sendMessage(citel.chat, {text: '```ᴘɪɴɢ ᴅᴀʀᴋ sʜᴀɴ ᴍᴅ..```'});
+        const { key } = await Void.sendMessage(citel.chat, {text: '```𝛲𝛪𝛮𝐺 𝐶𝑌𝐵𝛯𝑅 𝛸 𝑇𝛨𝛯𝛯𝛫𝑆𝛨𝛥𝛮𝛥 𝛭𝐷..```'});
         var final = new Date().getTime();
        // await Secktor.sleep(1000)
-       return await Void.sendMessage(citel.chat, {text: '_𝐷𝐴𝑅𝐾 𝑆𝐻𝐴𝑁 𝑃𝑂𝑁𝐺_\n *' + (final - inital) + ' ms* ', edit: key});
+       return await Void.sendMessage(citel.chat, {text: '_𝐶𝑌𝐵𝛯𝑅 𝑇𝛨𝛯𝛯𝛫𝑆𝛨𝛥𝛮𝛥 𝛭𝐷_\n *' + (final - inital) + ' ms* ', edit: key});
     }
 );
