@@ -14,7 +14,7 @@
  const { exec } = require('child_process')
  //---------------------------------------------------------------------------
  cmd({
-         pattern: "bass",
+         pattern: "bass,hi,gn,gm,bye,bs",
          desc: "adds bass in given sound",
          category: "audio",
          use: '<reply to any audio>',
